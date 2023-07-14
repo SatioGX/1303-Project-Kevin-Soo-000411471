@@ -1,0 +1,15 @@
+D:\School\VCC\Term 3\CSTP 1303\Project\1303-Project\1303 Project\1303 Project\bin\Debug\net6.0\1303 Project.exe
+D:\School\VCC\Term 3\CSTP 1303\Project\1303-Project\1303 Project\1303 Project\bin\Debug\net6.0\1303 Project.deps.json
+D:\School\VCC\Term 3\CSTP 1303\Project\1303-Project\1303 Project\1303 Project\bin\Debug\net6.0\1303 Project.runtimeconfig.json
+D:\School\VCC\Term 3\CSTP 1303\Project\1303-Project\1303 Project\1303 Project\bin\Debug\net6.0\1303 Project.dll
+D:\School\VCC\Term 3\CSTP 1303\Project\1303-Project\1303 Project\1303 Project\bin\Debug\net6.0\1303 Project.pdb
+D:\School\VCC\Term 3\CSTP 1303\Project\1303-Project\1303 Project\1303 Project\obj\Debug\net6.0\1303 Project.csproj.AssemblyReference.cache
+D:\School\VCC\Term 3\CSTP 1303\Project\1303-Project\1303 Project\1303 Project\obj\Debug\net6.0\1303 Project.GeneratedMSBuildEditorConfig.editorconfig
+D:\School\VCC\Term 3\CSTP 1303\Project\1303-Project\1303 Project\1303 Project\obj\Debug\net6.0\1303 Project.AssemblyInfoInputs.cache
+D:\School\VCC\Term 3\CSTP 1303\Project\1303-Project\1303 Project\1303 Project\obj\Debug\net6.0\1303 Project.AssemblyInfo.cs
+D:\School\VCC\Term 3\CSTP 1303\Project\1303-Project\1303 Project\1303 Project\obj\Debug\net6.0\1303 Project.csproj.CoreCompileInputs.cache
+D:\School\VCC\Term 3\CSTP 1303\Project\1303-Project\1303 Project\1303 Project\obj\Debug\net6.0\1303 Project.dll
+D:\School\VCC\Term 3\CSTP 1303\Project\1303-Project\1303 Project\1303 Project\obj\Debug\net6.0\refint\1303 Project.dll
+D:\School\VCC\Term 3\CSTP 1303\Project\1303-Project\1303 Project\1303 Project\obj\Debug\net6.0\1303 Project.pdb
+D:\School\VCC\Term 3\CSTP 1303\Project\1303-Project\1303 Project\1303 Project\obj\Debug\net6.0\1303 Project.genruntimeconfig.cache
+D:\School\VCC\Term 3\CSTP 1303\Project\1303-Project\1303 Project\1303 Project\obj\Debug\net6.0\ref\1303 Project.dll
