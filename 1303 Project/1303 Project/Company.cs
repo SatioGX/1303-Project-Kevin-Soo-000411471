@@ -9,10 +9,5 @@ namespace _1303_Project
     public class Company : Contact
     {
         public List<Individual> Contacts { get; set; }
-
-        public Company()
-        {
-            Contacts = new List<Individual>();
-        }
     }
 }

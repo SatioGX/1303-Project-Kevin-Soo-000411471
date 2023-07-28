@@ -6,8 +6,9 @@ using System.Threading.Tasks;
 
 namespace _1303_Project
 {
-    public class Individual : Contact
+    public class Phone
     {
-       
+        public string Number { get; set; }
+        public string Title { get; set; }
     }
 }
